@@ -1,0 +1,71 @@
+Locus,Accession,HGMD mutation,HGVS,Allele,Phenotype,Variant class,Disease
+SDHA,CM1720660,ATG-AGG,Met1Arg,c.2T>G,p.p.M1R,DM,Pheochromocytoma/paraganglioma
+SDHA,CM000423,ATG-CTG,Met1Leu,c.1A>C,p.p.M1L,DM,Leigh syndrome
+SDHA,CM1720659,ATG-TTG,Met1Leu,c.1A>T,p.p.M1L,DM,Pheochromocytoma/paraganglioma
+SDHA,CM1514303,ATG-ACG,Met1Thr,c.2T>C,p.p.M1T,DM,Gastrointestinal tumour, stromal and renal cell carcinoma
+SDHA,CM165649,ATG-GTG,Met1Val,c.1A>G,p.p.M1V,DM,Leigh syndrome
+SDHB,CM134048,ATG-TTG,Met1Leu,c.1A>T,p.p.M1L,DM,Paraganglioma/phaeochromocytoma
+SDHB,CM1411516,ATG-GTG,Met1Val,c.1A>G,p.p.M1V,DM,Paraganglioma/phaeochromocytoma
+SDHB,CM120067,CGA-GGA,Arg27Gly,c.79C>G,p.p.R27G,DM,Cowden-like syndrome
+SDHB,CM020965,CGA-TGA,Arg27Term,c.79C>T,p.p.R27*,DM,Phaeochromocytoma
+SDHB,CM030518,CGA-CAA,Arg46Gln,c.137G>A,p.p.R46Q,DM,Phaeochromocytoma
+SDHB,CM020966,CGA-GGA,Arg46Gly,c.136C>G,p.p.R46G,DM,Phaeochromocytoma
+SDHB,CM130560,CGA-CTA,Arg46Leu,c.137G>T,p.p.R46L,DM?,Phaeochromocytoma
+SDHB,CM030519,CGA-TGA,Arg46Term,c.136C>T,p.p.R46*,DM,Phaeochromocytoma
+SDHB,CM1210441,CTT-CGT,Leu65Arg,c.194T>G,p.p.L65R,DM,Phaeochromocytoma and paraganglioma
+SDHB,CM030520,CTT-CAT,Leu65His,c.194T>A,p.p.L65H,DM,Phaeochromocytoma
+SDHB,CM044710,CTT-CCT,Leu65Pro,c.194T>C,p.p.L65P,DM,Phaeochromocytoma
+SDHB,CM077221,TGC-CGC,Cys93Arg,c.277T>C,p.p.C93R,DM,Paraganglioma
+SDHB,CM1611286,TGC-GGC,Cys93Gly,c.277T>G,p.p.C93G,DM,Phaeochromocytoma and paraganglioma
+SDHB,CM061959,TGT-CGT,Cys98Arg,c.292T>C,p.p.C98R,DM,Phaeochromocytoma and paraganglioma
+SDHB,CM1611200,TGT-AGT,Cys98Ser,c.292T>A,p.p.C98S,DM,Phaeochromocytoma and paraganglioma
+SDHB,CM1611202,TGC-TCC,Cys113Ser,c.338G>C,p.p.C113S,DM,Phaeochromocytoma and paraganglioma
+SDHB,CM100063,TGC-TAC,Cys113Tyr,c.338G>A,p.p.C113Y,DM,Paraganglioma
+SDHB,CM034572,ATC-AAC,Ile127Asn,c.380T>A,p.p.I127N,DM,Phaeochromocytoma
+SDHB,CM056396,ATC-AGC,Ile127Ser,c.380T>G,p.p.I127S,DM,Paraganglioma
+SDHB,CM1710516,ATC-ACC,Ile127Thr,c.380T>C,p.p.I127T,DM?,Paraganglioma/phaeochromocytoma
+SDHB,CM163195,TGC-CGC,Cys196Arg,c.586T>C,p.p.C196R,DM,Paraganglioma
+SDHB,CM163196,TGC-GGC,Cys196Gly,c.586T>G,p.p.C196G,DM,Paraganglioma
+SDHB,CM096520,GGA-AGA,Gly203Arg,c.607G>A,p.p.G203R,DM,Phaeochromocytoma
+SDHB,CM163197,GGA-TGA,Gly203Term,c.607G>T,p.p.G203*,DM,Phaeochromocytoma and renal cell carcinoma
+SDHB,CM094752,CGC-TGC,Arg217Cys,c.649C>T,p.p.R217C,DM,Paraganglioma
+SDHB,CM1210440,CGC-GGC,Arg217Gly,c.649C>G,p.p.R217G,DM,Phaeochromocytoma and paraganglioma
+SDHB,CM061964,TGG-TCG,Trp218Ser,c.653G>C,p.p.W218S,DM,Phaeochromocytoma and paraganglioma
+SDHB,CM061963,TGG-TAG,Trp218Term,c.653G>A,p.p.W218*,DM,Phaeochromocytoma
+SDHB,CM034573,CGC-TGC,Arg230Cys,c.688C>T,p.p.R230C,DM,Phaeochromocytoma
+SDHB,CM068816,CGC-GGC,Arg230Gly,c.688C>G,p.p.R230G,DM,Paraganglioma/phaeochromocytoma
+SDHB,CM056696,CGC-CAC,Arg230His,c.689G>A,p.p.R230H,DM,Phaeochromocytoma and paraganglioma
+SDHB,CM086923,CGC-CTC,Arg230Leu,c.689G>T,p.p.R230L,DM,Paraganglioma
+SDHB,CM041829,CGC-TGC,Arg242Cys,c.724C>T,p.p.R242C,DM,Paraganglioma
+SDHB,CM092170,CGC-AGC,Arg242Ser,c.724C>A,p.p.R242S,DM,Paraganglioma
+SDHC,CM186693,ATG-TTG,Met1Leu,c.1A>T,p.p.M1L,DM?,Paraganglioma/phaeochromocytoma
+SDHC,CM056400,ATG-GTG,Met1Val,c.1A>G,p.p.M1V,DM,Paraganglioma
+SDHC,CM056399,CGT-TGT,Arg72Cys,c.214C>T,p.p.R72C,DM,Paraganglioma
+SDHC,CM147499,CGT-GGT,Arg72Gly,c.214C>G,p.p.R72G,DM,Paraganglioma
+SDHD,CM092619,ATG-ATA,Met1Ile,c.3G>A,p.p.M1I,DM,Paraganglioma and phaeochromocytoma
+SDHD,CM013281,ATG-ATC,Met1Ile,c.3G>C,p.p.M1I,DM,Paraganglioma
+SDHD,CM073335,ATG-AAG,Met1Lys,c.2T>A,p.p.M1K,DM,Phaeochromocytoma
+SDHD,CM094770,ATG-ACG,Met1Thr,c.2T>C,p.p.M1T,DM,Paraganglioma
+SDHD,CM092194,TGC-TGT,Cys11Cys,c.33C>T,p.p.C11C,DM,Paraganglioma
+SDHD,CM020973,TGC-TGA,Cys11Term,c.33C>A,p.p.C11*,DM,Phaeochromocytoma
+SDHD,CM013790,TCA-TAA,Ser32Term,c.95C>A,p.p.S32*,DM,Paraganglioma
+SDHD,CM136160,TCA-TGA,Ser32Term,c.95C>G,p.p.S32*,DM,Paraganglioma
+SDHD,CM1212992,ATC-CTC,Ile40Leu,c.118A>C,p.p.I40L,DM?,Cowden-like syndrome
+SDHD,CM092195,ATC-GTC,Ile40Val,c.118A>G,p.p.I40V,DM,Paraganglioma
+SDHD,CM141636,GAG-AAG,Glu69Lys,c.205G>A,p.p.E69K,DM,Encephalomyopathy & isolated mitochondrial complex II deficiency
+SDHD,CM186702,GAG-TAG,Glu69Term,c.205G>T,p.p.E69*,DM?,Paraganglioma/phaeochromocytoma
+SDHD,CM094773,AGG-ATG,Arg70Met,c.209G>T,p.p.R70M,DM,Paraganglioma
+SDHD,CM094772,AGG-ACG,Arg70Thr,c.209G>C,p.p.R70T,DM,Paraganglioma
+SDHD,CM094774,CTT-CGT,Leu80Arg,c.239T>G,p.p.L80R,DM,Paraganglioma
+SDHD,CM193637,CTT-CCT,Leu80Pro,c.239T>C,p.p.L80P,DM?,Paraganglioma/phaeochromocytoma
+SDHD,CM1812919,CTG-CGG,Leu95Arg,c.284T>G,p.p.L95R,DM,Paraganglioma
+SDHD,CM013284,CTG-CCG,Leu95Pro,c.284T>C,p.p.L95P,DM,Paraganglioma
+SDHD,CM119134,CAT-CGT,His102Arg,c.305A>G,p.p.H102R,DM,Paraganglioma
+SDHD,CM1718395,CAT-AAT,His102Asn,c.304C>A,p.p.H102N,DM,Cancer
+SDHD,CM000209,CAT-CTT,His102Leu,c.305A>T,p.p.H102L,DM,Paraganglioma
+SDHD,CM094775,CAT-CCT,His102Pro,c.305A>C,p.p.H102P,DM,Paraganglioma
+SDHD,CM120372,CAT-TAT,His102Tyr,c.304C>T,p.p.H102Y,DM,Paraganglioma
+SDHD,CM065462,GGC-GAC,Gly106Asp,c.317G>A,p.p.G106D,DM,Paraganglioma
+SDHD,CM092198,GGC-GTC,Gly106Val,c.317G>T,p.p.G106V,DM,Paraganglioma
+SDHD,CM061968,GGC-GAC,Gly148Asp,c.443G>A,p.p.G148D,DM,Paraganglioma and phaeochromocytoma
+SDHD,CM044713,GGC-GTC,Gly148Val,c.443G>T,p.p.G148V,DM,Paraganglioma

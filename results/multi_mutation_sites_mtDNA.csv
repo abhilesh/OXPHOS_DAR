@@ -1,0 +1,29 @@
+Position,Locus,Disease,Allele,NucleotideChange,Amino Acid Change,Homoplasmy,Heteroplasmy,Status,GB Frequency,References
+3308,MT-ND1,MELAS / DEAF enhancer / hypertension / LVNC / putative LHON,T3308C,T-C,M-T,-,+,P.M.-possibly synergistic,346,14
+3308,MT-ND1,Sudden Infant Death,T3308G,T-G,M-Term,+,+,Reported,6,1
+3481,MT-ND1,MELAS,G3481A,G-A,E-K,-,+,Reported,0,2
+3481,MT-ND1,Progressive Encephalomyopathy,G3481A,G-A,E-K,-,+,Reported,0,1
+3733,MT-ND1,LHON,G3733A,G-A,E-K,+,+,Cfrm,2,6
+3733,MT-ND1,LHON,G3733C,G-C,E-Q,-,+,Reported,0,1
+5460,MT-ND2,AD / PD,G5460A,G-A,A-T,+,+,Conflicting reports,3088,8
+5460,MT-ND2,AD,G5460T,G-T,A-S,+,+,Reported,0,5
+7445,MT-CO1,SNHL,A7445G,A-G,Term-Term,+,+,Cfrm,1,31
+7445,MT-CO1,DEAF,A7445C,A-C,Term-S,+,-,Reported,13,5
+8527,MT-ATP8,Neuromuscular disorder/ possible helper mutation,A8527G,A-G,K-K,+,-,Reported,210,1
+8527,MT-ATP6,Neuromuscular disorder/ possible helper mutation,A8527G,A-G,M-V,+,-,Reported,210,1
+8528,MT-ATP8,Infantile cardiomyopathy,T8528C,T-C,W-R,+,+,Cfrm,0,3
+8528,MT-ATP6,Infantile cardiomyopathy,T8528C,T-C,M-T,+,+,Cfrm,0,3
+8529,MT-ATP8,Apical HCM,G8529A,G-A,W-Term,+,-,Reported,0,1
+8529,MT-ATP6,Apical HCM,G8529A,G-A,M-M,+,-,Reported,0,1
+8558,MT-ATP8,Possibly LVNC cardiomyopathy-associated,C8558T,C-T,P-S,+,-,Reported,12,1
+8558,MT-ATP6,Possibly LVNC cardiomyopathy-associated,C8558T,C-T,A-V,+,-,Reported,12,1
+8561,MT-ATP8,Ataxia w neuropathy/ DM/ SNHL/ and hypogonadism,C8561G,C-G,P-A,+,+,Reported,0,1
+8561,MT-ATP6,Ataxia w neuropathy/ DM/ SNHL/ and hypogonadism,C8561G,C-G,P-R,+,+,Reported,0,1
+8993,MT-ATP6,NARP / Leigh Disease / MILS / other,T8993G,T-G,L-R,+,+,Cfrm,6,106
+8993,MT-ATP6,NARP / Leigh Disease / MILS / other,T8993C,T-C,L-P,-,+,Cfrm,2,33
+9176,MT-ATP6,FBSN / Leigh Disease,T9176C,T-C,L-P,+,+,Cfrm,3,19
+9176,MT-ATP6,Leigh Disease / Spastic Paraplegia,T9176G,T-G,L-R,+,+,Cfrm,1,8
+10398,MT-ND3,PD protective factor / longevity / altered cell pH / metabolic syndrome / breast cancer risk / LS risk / ADHD / cognitive decline / SCA2 age of onset,A10398G,A-G,T-A,+,-,Reported; lineage L & M marker/ also hg IJK,21096,32
+10398,MT-ND3,Invasive Breast Cancer risk factor AD PD BD lithium response Type 2 DM,A10398A,A-A,T-T,+,-,Reported; lineage N marker except hg IJK,0,18
+14482,MT-ND6,LHON,C14482A,C-A,M-I,+,+,Cfrm,2,11
+14482,MT-ND6,LHON,C14482G,C-G,M-I,+,+,Cfrm,0,5
